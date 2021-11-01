@@ -1,1 +1,1 @@
-# NLP_project
+# NLP Author classification project
